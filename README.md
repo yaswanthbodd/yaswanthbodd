@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaswanthbodd" alt="yaswanthbodd" /></a> </p>
 
-- 🔭 I’m currently working on **Influenza AH3N1 virus prediction**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
